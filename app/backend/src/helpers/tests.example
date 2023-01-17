@@ -1,0 +1,15 @@
+{
+  "email": "admin@admin.com",
+  "password": "secret_admin"
+}
+
+{
+ "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImVtYWlsIjoiYWRtaW5AYWRtaW4uY29tIiwiaWQiOjEsInJvbGUiOiJhZG1pbiJ9LCJpYXQiOjE2NzA3OTI4NTksImV4cCI6MTY3MDg3OTI1OX0.Nd0LwNd_4WtyI893zEf1eRyNsSoqXnxzXOqLPetjUkU"
+}
+
+{
+  "homeTeam": 16,
+  "awayTeam": 8,
+  "homeTeamGoals": 2,
+  "awayTeamGoals": 2,
+}
