@@ -40,6 +40,10 @@ Imagine que você está desenvolvendo um projeto em JavaScript com outras pessoa
 * [Docker](https://www.docker.com/)
 * [MySQL](https://www.mysql.com/)
 * [API](https://economia.awesomeapi.com.br/json/all)
+
+## :speech_balloon: Estado Atual
+
+
 ## ✒️ Autor
 **Matheus Flores** - [Desenvolvedor](https://github.com/MathssF)
 ## 🎁 Expressões de gratidão
