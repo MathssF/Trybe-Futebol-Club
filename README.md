@@ -43,6 +43,15 @@ Imagine que você está desenvolvendo um projeto em JavaScript com outras pessoa
 
 ## :speech_balloon: Estado Atual
 
+* Docker Completo
+* MySQL, Migrations e Seeders Completos
+* Rota de Login Completa  (Model, Service, Controller)
+* Rota de Times Completa (Model, Service, Controller)
+* Rota de Matchs Completa (Model, Service, Controller)
+* Rota de Matches Completa  (Model, Service, Controller)
+* Rota de LeaderBoard Completa  (Model, Service, Controller)
+* Testes Incompletos (Em andamento)
+
 
 ## ✒️ Autor
 **Matheus Flores** - [Desenvolvedor](https://github.com/MathssF)
