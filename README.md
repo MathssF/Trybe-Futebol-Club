@@ -23,7 +23,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 🔧 Instalação
 
-```git clone https://github.com/Underewarrr/trybe-wallet```
+```git clone https://github.com/MathssF/Trybe-Futebol-Club```
 
 Para executar este projeto em um ambiente Docker
 ```
@@ -37,14 +37,13 @@ localhost:3001
 Imagine que você está desenvolvendo um projeto em JavaScript com outras pessoas desenvolvedoras. Concorda que, sem um guia de padronização, cada integrante escreveria o código de uma determinada forma? E que seria difícil refatorar todo o projeto para corrigir eventuais problemas e melhorar sua qualidade e organização? Por isso, é importante o uso de uma ferramenta plugável como o ESLint, que permite definir uma guia de estilo padrão a ser respeitada por todas as pessoas desenvolvedoras envolvidas na fase de elaboração do projeto.
 
 ## 🛠️ Construído com
-* [React](https://pt-br.reactjs.org/) 
-* [Redux](https://react-redux.js.org/)
 * [Docker](https://www.docker.com/)
+* [MySQL](https://www.mysql.com/)
 * [API](https://economia.awesomeapi.com.br/json/all)
 ## ✒️ Autor
-**Rafhael Oliveira** - [Desenvolvedor](https://github.com/underewarrr)
+**Matheus Flores** - [Desenvolvedor](https://github.com/MathssF)
 ## 🎁 Expressões de gratidão
 * Este projeto foi desenvolvido enquanto estudante na Trybe 📢
 * Obrigado Trybers! 🤓.
 ---
-⌨️ com ❤️ por [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/) 😊
+⌨️ com ❤️ por [MatheusFlores](https://www.linkedin.com/in/matheus-oaf/) 😊
